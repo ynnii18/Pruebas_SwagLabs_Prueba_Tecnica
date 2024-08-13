@@ -1,0 +1,51 @@
+
+E
+java:S1874	"0Remove this use of "MobileBy"; it is deprecated.(£ê°
+L
+java:S1874	"7Remove this use of "AccessibilityId"; it is deprecated.(£ê°
+K
+java:S1874
+"0Remove this use of "MobileBy"; it is deprecated.(Ä±¾ÿÿÿÿÿ
+R
+java:S1874
+"7Remove this use of "AccessibilityId"; it is deprecated.(Ä±¾ÿÿÿÿÿ
+K
+java:S1874"0Remove this use of "MobileBy"; it is deprecated.(æõÆŸúÿÿÿÿ
+R
+java:S1874"7Remove this use of "AccessibilityId"; it is deprecated.(æõÆŸúÿÿÿÿ
+W
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(‘™ÇÄüÿÿÿÿ
+K
+java:S1874"0Remove this use of "MobileBy"; it is deprecated.(‘™ÇÄüÿÿÿÿ
+F
+java:S1874"0Remove this use of "MobileBy"; it is deprecated.(‹¬†û
+M
+java:S1874"7Remove this use of "AccessibilityId"; it is deprecated.(‹¬†û
+F
+java:S1874"0Remove this use of "MobileBy"; it is deprecated.(ÜÚê¦
+M
+java:S1874"7Remove this use of "AccessibilityId"; it is deprecated.(ÜÚê¦
+F
+java:S1874"0Remove this use of "MobileBy"; it is deprecated.(¾“ïç
+M
+java:S1874"7Remove this use of "AccessibilityId"; it is deprecated.(¾“ïç
+F
+java:S1874"0Remove this use of "MobileBy"; it is deprecated.(à£÷÷
+M
+java:S1874"7Remove this use of "AccessibilityId"; it is deprecated.(à£÷÷
+K
+java:S1874"0Remove this use of "MobileBy"; it is deprecated.(Ïıµ¤ûÿÿÿÿ
+R
+java:S1874"7Remove this use of "AccessibilityId"; it is deprecated.(Ïıµ¤ûÿÿÿÿ
+W
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(Êæ§üÿÿÿÿ
+K
+java:S1874"0Remove this use of "MobileBy"; it is deprecated.(Êæ§üÿÿÿÿ
+W
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(’æü ùÿÿÿÿ
+W
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(Í±€×ıÿÿÿÿ
+K
+java:S1874"0Remove this use of "MobileBy"; it is deprecated.(Í±€×ıÿÿÿÿ
+R
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(İ¹À¤

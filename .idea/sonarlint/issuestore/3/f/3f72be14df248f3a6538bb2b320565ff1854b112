@@ -1,0 +1,11 @@
+
+Í
+java:S1192"Define a constant instead of duplicating this literal "//*[@class='android.view.ViewGroup' and @content-desc='test-AÃ‘ADIR A CARRITO']" 3 times.(©ÔÁåJ$827e1301-6a9a-49c0-8c7a-22a4000e6a61
+m
+java:S1153"1Directly append the argument of String.valueOf().(ïØçşJ$89062e66-e17f-4749-821a-54986e0b9efe
+Â
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›Ì·ÖÿÿÿÿÿJ$b9febeb8-97f9-47a8-bbc5-a82bbd71a9c5
+^
+java:S1118"Hide this public constructor.(›Ì·ÖÿÿÿÿÿJ$edf61689-2bc9-4d6b-abb0-642439171c6e
+x
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(©ÔÁåJ$b3e9fda9-9841-461f-8dbe-2bc17f4de08e

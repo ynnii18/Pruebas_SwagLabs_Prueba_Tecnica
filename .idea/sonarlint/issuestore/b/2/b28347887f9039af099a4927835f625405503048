@@ -1,0 +1,6 @@
+
+Ž	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âú¤ÓøÿÿÿÿJ$a02b9119-3524-46d8-b58c-3d74d4ad33a2
+‚
+java:S1128"?Remove this unused import 'io.appium.java_client.AppiumDriver'.(òš‹­8‡Š¾ã”2J$31b9c315-b548-46c6-b4c4-e9ebd7059444
+}
+java:S1128":Remove this unused import 'org.openqa.selenium.WebDriver'.(ñšÿÀ8‡Š¾ã”2J$caf1da79-ae22-4493-a87c-abfcd0c0c244
